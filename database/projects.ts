@@ -125,29 +125,6 @@ const projects: Record<IProjectId, IProject> = {
     stack: ["React", "Next.js", "GraphQL", "GCP", "Nest.js"],
     team: [1, 4, 3],
   },
-  6: {
-    name: "Sprintmailing",
-    id: 6,
-    sku: "sprintmailing",
-    image:
-      "https://uploads-ssl.webflow.com/5ff9f08a3928de42db400872/6108431f5398b1781650eedb_SPRINT.png",
-    description: {
-      description:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-      objective:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-      challenge:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-      solution:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    },
-    status: "DONE",
-    url: "https://www.sprintmailing.com/",
-    companyName: "CleverIt Group",
-    companyUrl: "https://www.cleveritgroup.com/",
-    stack: ["React", "Next.js", "GraphQL", "GCP", "Nest.js"],
-    team: [2, 4, 1, 6],
-  },
 };
 
 export default projects;
